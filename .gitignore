@@ -136,8 +136,6 @@ fabric.properties
 /.idea/workspace.xml
 /build
 /captures
-/app/
-
 
 # End of https://www.gitignore.io/api/androidstudio
 
